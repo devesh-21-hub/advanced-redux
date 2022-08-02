@@ -13,4 +13,4 @@ Installs the dependencies
 ### `npm start`
 
 Starts the server and runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in th
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
